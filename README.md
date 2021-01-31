@@ -1,1 +1,1 @@
-Игра Flappy Bird, фронтовая часть
+Игра Flappy Bird
